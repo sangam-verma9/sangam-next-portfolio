@@ -194,7 +194,8 @@
       "image": "https://developers.google.com/static/mediapipe/images/solutions/examples/pose_detector.png",
       "links": {
         "code": "https://github.com/Dhruv-0001/Pose-Detection",
-        "video": "https://github.com/Dhruv-0001/Pose-Detection"
+        "video": "https://github.com/Dhruv-0001/Pose-Detection",
+        "visit": ""
       }
     },
     {
@@ -204,6 +205,7 @@
       "image": "https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/11/02150548/How-To-Create-An-Engaging-Memorable-Experience-for-E-Learning-Website-Development.jpg",
       "links": {
         "code": "https://github.com/Dhruv-0001/Hacktoberfest2022-Tech-Talk",
+        "video": "",
         "visit": "https://dhruv-0001-hacktoberfest2022-tech-talk-main-z5l9tc.streamlit.app/"
       }
     },
