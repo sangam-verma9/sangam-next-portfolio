@@ -15,6 +15,7 @@ const nextConfig = {
       "media.geeksforgeeks.org",
       "drive.google.com",
       ".com",
+      "",
     ],
   },
 };
