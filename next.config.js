@@ -14,6 +14,7 @@ const nextConfig = {
       "www.freepik.com",
       "media.geeksforgeeks.org",
       "drive.google.com",
+      "i.ibb.co",
       ".com",
       "",
     ],
