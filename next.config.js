@@ -11,8 +11,9 @@ const nextConfig = {
       "raw.githubusercontent.com",
       "i.imgur.com",
       "img.freepik.com",
-      "www.freepik.com"
+      "www.freepik.com",
       "media.geeksforgeeks.org",
+      "drive.google.com",
       ".com",
     ],
   },
