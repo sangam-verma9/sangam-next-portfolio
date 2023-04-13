@@ -7,7 +7,7 @@
       "Python Development",
       "Solving Problems"
     ],
-    "heroImage": "https://i.ibb.co/cJprRtS/PROFILE.png",
+    "heroImage": "https://img.freepik.com/free-photo/funny-3d-asian-teenager_183364-80432.jpg?w=740&t=st=1681409414~exp=1681410014~hmac=917039c953ca595de6746f0f2e2fe74e55a4b1a9e6b44e88e60eac959b8c26e2",
     "techStackImages": [
       "https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-machine-learning-big-data-flaticons-flat-flat-icons.png",
       "https://img.icons8.com/3d-fluency/94/null/python.png",
@@ -19,7 +19,7 @@
     "aboutImage": "https://i.ibb.co/cJprRtS/PROFILE.png",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Machine Learning and Python Developer",
-    "about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
+    "about": "I am a Python and Machine Learning Developer who loves to apply Python and Machine learning Algorithms to solve real world problems. I am currently deep diving into Data Science, Open Source and have a keen interest in Blockchain and WEB 3.0 technologies🚀. and constantly pushing myself to grow as a developer and improve my Problem Solving skills.",
     "callUrl": "",
     "resumeUrl": ""
   },
@@ -41,51 +41,181 @@
     {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
+      "category": "Web Development"
     },
     {
-      "name": "Firebase",
+      "name": "HTML",
       "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
+      "category": "Web Development"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Web Development"
+    },
+    {
+      "name": "Django",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Web Development"
     },
     {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
+      "category": "Others"
+    },
+    {
+      "name": "Rest API",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Web Development"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Others"
+    },
+    {
+      "name": "Jupyter",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Others"
+    },
+    {
+      "name": "VS Code",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Others"
+    },
+    {
+      "name": "Excel",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Others"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Others"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "SQL",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Scikit-Learn",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "NLP",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Mediapipe",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "OpenPose",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Keras",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Data Analysis",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Yolo",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Numpy",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Data Modelling",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Model Deployment",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
+    },
+    {
+      "name": "Streamlit",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Data"
     }
   ],
   "projects": [
     {
-      "name": "Project Title",
+      "name": "Shoe Hype",
       "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "category": "Machine Learning",
+      "image": "https://cdn.dribbble.com/users/1997192/screenshots/15359806/dribbble_final_post.png?compress=1&resize=400x300",
       "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
+        "code": "https://github.com/Dhruv-0001/SHOE-HYPE",
+        "video": "https://drive.google.com/file/d/14Jz5-4tQWAedAX66S45lYWLdls9cruCK/view",
+        "visit": "https://dhruv-0001-shoe-hype-shoe-hype-8ebvwa.streamlit.app/"
       }
     },
     {
-      "name": "Project Title",
+      "name": "Snap Shot",
       "techstack": "Flutter, Dart, Firebase",
-      "category": "Flutter",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "category": "Machine Learning",
+      "image": "https://cdn.dribbble.com/users/138806/screenshots/14087810/media/b3f83ad0932f69d8c12f13dd264d95fb.jpg?compress=1&resize=400x300&vertical=top",
       "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
+        "code": "https://github.com/Dhruv-0001/SnapShot.git",
+        "video": "https://drive.google.com/file/d/1Z5HT-DPyQYieUDOCz1ApfEcuiY9RfxAO/view",
+        "visit": "https://dhruv-0001-snapshot-app-keifr6.streamlit.app/"
       }
     },
     {
-      "name": "Project Title",
+      "name": "Pose Detector",
       "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "category": "Machine Learning",
+      "image": "https://developers.google.com/static/mediapipe/images/solutions/examples/pose_detector.png",
       "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
+        "code": "https://github.com/Dhruv-0001/Pose-Detection",
+        "video": "https://github.com/Dhruv-0001/Pose-Detection"
+      }
+    },
+    {
+      "name": "Tech Talk",
+      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Machine Learning",
+      "image": "https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/11/02150548/How-To-Create-An-Engaging-Memorable-Experience-for-E-Learning-Website-Development.jpg",
+      "links": {
+        "code": "https://github.com/Dhruv-0001/Hacktoberfest2022-Tech-Talk",
+        "visit": "https://dhruv-0001-hacktoberfest2022-tech-talk-main-z5l9tc.streamlit.app/"
+      }
+    },
+    {
+      "name": "Stocks Forecastor",
+      "techstack": "Flutter, Dart, Firebase",
+      "category": "Machine Learning",
+      "image": "https://miro.medium.com/v2/resize:fit:626/0*SaNg8uUaKCMQSS5g.jpg",
+      "links": {
+        "code": "https://github.com/Dhruv-0001/Stocks-Forecastor",
+        "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
+        "visit": "https://dhruv-0001-stocks-forecastor-app-gqlm6j.streamlit.app/"
       }
     }
   ],
@@ -93,38 +223,53 @@
     {
       "institute": "Rainbow School | CBSE",
       "degree": "HSC Science",
-      "duration": "2017 - 2019"
+      "duration": "2017 - 2019",
+      "desc": ["Class 10th : 9.8 CGPA", "Class 12th : 94.6 Percentage"]
     },
     {
-      "institute": "XYZ College Of Engineering",
-      "degree": "B.Tech CSE",
-      "duration": "2016 - 2020",
-      "desc": [
-        "Pursuing IT Engineering course from ABC University",
-        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
-      ]
+      "institute": "Harcourt Butler Technical University (HBTU)",
+      "degree": "B.Tech EE",
+      "duration": "2020 - 2024",
+      "desc": ["Pursuing Electrical Engineering course from HBTU."]
     }
   ],
   "experiences": [
     {
-      "company": "ABC Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2020 -2022",
+      "company": "SixthSens AI",
+      "position": "AI Developer Intern",
+      "duration": "April 2023 - present",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Working on the development of Real life ML & AI solutions.",
+        "Skills: ML · AI · Yolo · Object Detection"
       ]
     },
     {
-      "company": "XYZ Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2022 - present",
+      "company": "Siemens Ltd.",
+      "position": "Research & Development Intern",
+      "duration": "June 2022 - Aug 2022",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Researched and created the work plan for the Automation of Lab work at the R&D department.",
+        "Created API of labs using the Mind Connect IOT 2040 module for controlling the labs remotely.",
+        "Prototyped an application on Mindsphere cloud using Mendix and designed PLC programs of 10+ labs on LOGO and TIA software."
+      ]
+    },
+    {
+      "company": "Hacktober Fest",
+      "position": "Open Source Maintainer",
+      "duration": "Oct 2022 - Nov 2022",
+      "desc": [
+        " Maintained and developed the Tech Talk (An Open-Source Tech Topics Learning Website) at Hacktoberfest 2022",
+        "Skills: HTML · CSS · Streamlit · Javascript · Github"
+      ]
+    },
+    {
+      "company": "Siemens - Growth Center",
+      "position": "Mechatronics Training & Research",
+      "duration": "2022 - 2023",
+      "desc": [
+        "Cleared Mechatronics Level 1 & 2 Program and soft skills Training by Siemens Growth Center.",
+        "Learnt PLC programming, TIA portal and did error finding hands-on on the Siemens software.",
+        "Researched and implemented upon connecting a PLC with a website for remote access."
       ]
     }
   ]
