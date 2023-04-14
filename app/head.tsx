@@ -18,8 +18,8 @@ export default function Head() {
       <meta
         property="og:description"
         content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college."
-      /> */}
-      {/* <meta property="og:url" content="https://jigarsable.vercel.app" />
+      />
+      <meta property="og:url" content="https://jigarsable.vercel.app" />
       <meta
         property="og:image"
         content="https://jigarsable.vercel.app/portfolio-fork.png"
@@ -28,8 +28,8 @@ export default function Head() {
       <meta name="author" content="Jigar Sable" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="https://jigarsable.vercel.app" /> */}
-      {/* <meta name="application-name" content="Portfolio | Dhruv Tyagi" />
+      <meta name="twitter:site" content="https://jigarsable.vercel.app" />
+      <meta name="application-name" content="Portfolio | Dhruv Tyagi" />
       <meta
         name="apple-mobile-web-app-title"
         content="Portfolio | Dhruv Tyagi"
