@@ -39,136 +39,135 @@
   ],
   "skills": [
     {
+      "name": "Python",
+      "image": "https://img.icons8.com/3d-fluency/144/null/python.png",
+      "category": "Data"
+    },
+    {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Web Development"
     },
     {
       "name": "HTML",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
       "category": "Web Development"
     },
     {
       "name": "CSS",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/fluency/144/null/css3.png",
       "category": "Web Development"
     },
     {
       "name": "Django",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/django.png",
       "category": "Web Development"
     },
     {
       "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "image": "https://img.icons8.com/material-outlined/144/null/github.png",
       "category": "Others"
     },
     {
       "name": "Rest API",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/arcade/144/null/api-settings.png",
       "category": "Web Development"
     },
     {
       "name": "Git",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/git.png",
       "category": "Others"
     },
     {
       "name": "Jupyter",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/fluency/144/null/jupyter.png",
       "category": "Others"
     },
     {
       "name": "VS Code",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/visual-studio-code-2019.png",
       "category": "Others"
     },
     {
       "name": "Excel",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/microsoft-excel-2019--v1.png",
       "category": "Others"
     },
     {
       "name": "Linux",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/linux--v1.png",
       "category": "Others"
     },
     {
-      "name": "Python",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Data"
-    },
-    {
       "name": "SQL",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/144/null/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png",
       "category": "Data"
     },
     {
       "name": "Scikit-Learn",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052",
       "category": "Data"
     },
     {
       "name": "NLP",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/cotton/144/null/brain-3.png",
       "category": "Data"
     },
     {
       "name": "Mediapipe",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://viz.mediapipe.dev/logo.png",
       "category": "Data"
     },
     {
       "name": "OpenPose",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/master/.github/Logo_main_black.png",
       "category": "Data"
     },
     {
       "name": "Keras",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png",
       "category": "Data"
     },
     {
       "name": "Data Analysis",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/external-becris-lineal-color-becris/144/null/external-data-analysis-business-consultant-becris-lineal-color-becris.png",
       "category": "Data"
     },
     {
       "name": "Yolo",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/nolan/144/yolo.png",
       "category": "Data"
     },
     {
       "name": "Pandas",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/pandas.png",
       "category": "Data"
     },
     {
       "name": "Numpy",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/color/144/null/numpy.png",
       "category": "Data"
     },
     {
       "name": "Data Modelling",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/144/null/external-data-modelling-media-agency-flaticons-lineal-color-flat-icons-2.png",
       "category": "Data"
     },
     {
       "name": "Model Deployment",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://img.icons8.com/external-xnimrodx-blue-xnimrodx/144/null/external-cloud-big-data-xnimrodx-blue-xnimrodx-5.png",
       "category": "Data"
     },
     {
       "name": "Streamlit",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://flowygo.com/wp-content/uploads/2022/03/streamlit-logo.png",
       "category": "Data"
     }
   ],
   "projects": [
     {
       "name": "Shoe Hype",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "Machine Learning",
+      "techstack": "",
       "image": "https://cdn.dribbble.com/users/1997192/screenshots/15359806/dribbble_final_post.png?compress=1&resize=400x300",
       "links": {
         "code": "https://github.com/Dhruv-0001/SHOE-HYPE",
@@ -179,7 +178,6 @@
     {
       "name": "Snap Shot",
       "techstack": "Flutter, Dart, Firebase",
-      "category": "Machine Learning",
       "image": "https://cdn.dribbble.com/users/138806/screenshots/14087810/media/b3f83ad0932f69d8c12f13dd264d95fb.jpg?compress=1&resize=400x300&vertical=top",
       "links": {
         "code": "https://github.com/Dhruv-0001/SnapShot.git",
@@ -190,7 +188,6 @@
     {
       "name": "Pose Detector",
       "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "Machine Learning",
       "image": "https://developers.google.com/static/mediapipe/images/solutions/examples/pose_detector.png",
       "links": {
         "code": "https://github.com/Dhruv-0001/Pose-Detection",
@@ -201,7 +198,6 @@
     {
       "name": "Tech Talk",
       "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "Machine Learning",
       "image": "https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/11/02150548/How-To-Create-An-Engaging-Memorable-Experience-for-E-Learning-Website-Development.jpg",
       "links": {
         "code": "https://github.com/Dhruv-0001/Hacktoberfest2022-Tech-Talk",
@@ -212,7 +208,6 @@
     {
       "name": "Stocks Forecastor",
       "techstack": "Flutter, Dart, Firebase",
-      "category": "Machine Learning",
       "image": "https://miro.medium.com/v2/resize:fit:626/0*SaNg8uUaKCMQSS5g.jpg",
       "links": {
         "code": "https://github.com/Dhruv-0001/Stocks-Forecastor",
@@ -237,25 +232,6 @@
   ],
   "experiences": [
     {
-      "company": "SixthSens AI",
-      "position": "AI Developer Intern",
-      "duration": "April 2023 - present",
-      "desc": [
-        "Working on the development of Real life ML & AI solutions.",
-        "Skills: ML · AI · Yolo · Object Detection"
-      ]
-    },
-    {
-      "company": "Siemens Ltd.",
-      "position": "Research & Development Intern",
-      "duration": "June 2022 - Aug 2022",
-      "desc": [
-        "Researched and created the work plan for the Automation of Lab work at the R&D department.",
-        "Created API of labs using the Mind Connect IOT 2040 module for controlling the labs remotely.",
-        "Prototyped an application on Mindsphere cloud using Mendix and designed PLC programs of 10+ labs on LOGO and TIA software."
-      ]
-    },
-    {
       "company": "Hacktober Fest",
       "position": "Open Source Maintainer",
       "duration": "Oct 2022 - Nov 2022",
@@ -272,6 +248,25 @@
         "Cleared Mechatronics Level 1 & 2 Program and soft skills Training by Siemens Growth Center.",
         "Learnt PLC programming, TIA portal and did error finding hands-on on the Siemens software.",
         "Researched and implemented upon connecting a PLC with a website for remote access."
+      ]
+    },
+    {
+      "company": "Siemens Ltd.",
+      "position": "Research & Development Intern",
+      "duration": "June 2022 - Aug 2022",
+      "desc": [
+        "Researched and created the work plan for the Automation of Lab work at the R&D department.",
+        "Created API of labs using the Mind Connect IOT 2040 module for controlling the labs remotely.",
+        "Prototyped an application on Mindsphere cloud using Mendix and designed PLC programs of 10+ labs on LOGO and TIA software."
+      ]
+    },
+    {
+      "company": "SixthSens AI",
+      "position": "AI Developer Intern",
+      "duration": "April 2023 - present",
+      "desc": [
+        "Working on the development of Real life ML & AI solutions.",
+        "Skills: ML · AI · Yolo · Object Detection"
       ]
     }
   ]

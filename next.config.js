@@ -20,7 +20,10 @@ const nextConfig = {
       "s3.amazonaws.com",
       "miro.medium.com",
       ".com",
-      "",
+      "upload.wikimedia.org",
+      "viz.mediapipe.dev",
+      "raw.githubusercontent.com",
+      "flowygo.com",
     ],
   },
 };
