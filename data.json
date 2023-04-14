@@ -167,7 +167,8 @@
   "projects": [
     {
       "name": "Shoe Hype",
-      "techstack": "",
+      "techstack": "CNN, ResNet50, Scikit Learn, ML",
+      "category": "Machine Learning",
       "image": "https://cdn.dribbble.com/users/1997192/screenshots/15359806/dribbble_final_post.png?compress=1&resize=400x300",
       "links": {
         "code": "https://github.com/Dhruv-0001/SHOE-HYPE",
@@ -177,7 +178,8 @@
     },
     {
       "name": "Snap Shot",
-      "techstack": "Flutter, Dart, Firebase",
+      "techstack": "Machine Learning, API, Streamlit",
+      "category": "Machine Learning",
       "image": "https://cdn.dribbble.com/users/138806/screenshots/14087810/media/b3f83ad0932f69d8c12f13dd264d95fb.jpg?compress=1&resize=400x300&vertical=top",
       "links": {
         "code": "https://github.com/Dhruv-0001/SnapShot.git",
@@ -187,7 +189,8 @@
     },
     {
       "name": "Pose Detector",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "techstack": "Open CV, Mediapipe, Scikit Learn",
+      "category": "Machine Learning",
       "image": "https://developers.google.com/static/mediapipe/images/solutions/examples/pose_detector.png",
       "links": {
         "code": "https://github.com/Dhruv-0001/Pose-Detection",
@@ -197,7 +200,8 @@
     },
     {
       "name": "Tech Talk",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "techstack": "HTML, CSS3, Streamlit, GitHub",
+      "category": "Machine Learning",
       "image": "https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/11/02150548/How-To-Create-An-Engaging-Memorable-Experience-for-E-Learning-Website-Development.jpg",
       "links": {
         "code": "https://github.com/Dhruv-0001/Hacktoberfest2022-Tech-Talk",
@@ -207,7 +211,8 @@
     },
     {
       "name": "Stocks Forecastor",
-      "techstack": "Flutter, Dart, Firebase",
+      "techstack": "FB Prophet, API, Data Forecasting",
+      "category": "Machine Learning",
       "image": "https://miro.medium.com/v2/resize:fit:626/0*SaNg8uUaKCMQSS5g.jpg",
       "links": {
         "code": "https://github.com/Dhruv-0001/Stocks-Forecastor",
