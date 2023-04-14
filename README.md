@@ -1,4 +1,4 @@
-<!-- ![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
 
 <div align="center">
   &middot;
@@ -12,7 +12,7 @@
   <a href="https://jigarsable.vercel.app">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
-</p> -->
+</p>
 
 <p align="center">
   <a href="#introduction-">Introduction</a> •

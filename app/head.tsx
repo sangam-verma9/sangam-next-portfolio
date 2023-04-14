@@ -1,7 +1,7 @@
 export default function Head() {
   return (
     <>
-      {/* <meta content="width=device-width, initial-scale=1" name="viewport" />
+      <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
         content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college."
@@ -34,7 +34,7 @@ export default function Head() {
         name="apple-mobile-web-app-title"
         content="Portfolio | Dhruv Tyagi"
       />
-      <link rel="icon" href="/favicon.ico" /> */}
+      <link rel="icon" href="/favicon.ico" />
       <title>Portfolio | Dhruv Tyagi</title>
     </>
   );
