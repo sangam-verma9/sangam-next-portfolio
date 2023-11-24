@@ -232,7 +232,7 @@
       "institute": "Harcourt Butler Technical University (HBTU)",
       "degree": "B.Tech EE",
       "duration": "2020 - 2024",
-      "desc": ["Pursuing Electrical Engineering course from HBTU."]
+      "desc": ["Pursuing Electrical Engineering course from HBTU.", "Responsibilities ‑ Training and Placement Representative, TPR of EE | Co ‑ Secretary at Alumni Association | Social Media Head at Unstop HBTU."]
     }
   ],
   "experiences": [
@@ -268,10 +268,25 @@
     {
       "company": "SixthSens AI",
       "position": "AI Developer Intern",
-      "duration": "April 2023 - present",
+      "duration": "April 2023 - July 2023",
       "desc": [
-        "Working on the development of Real life ML & AI solutions.",
+        "Worked on the development of Real life ML & AI solutions.",
+        "Object Detection: Generated an artificial dataset with 10K+ annotated items by applying foreground augmentation and masking techniques.",
+        "Designed an object detection model by utilizing YOLOv8 taht have an accuracy of 82% to automate the Industrial pipeline.",
+        "Web Scraping: Scraped 1.3 million entries using Selenium, Python and employed GCP, Google Cloud Cron jobs for scheduling the scraping.",
         "Skills: ML · AI · Yolo · Object Detection"
+      ]
+    },
+    {
+      "company": "Google Summer of Code (GSoC) 2023 - Red Hen Lab",
+      "position": "Open Source Developer",
+      "duration": "May 2023 - September 2023",
+      "desc": [
+        "Cleared Mechatronics Level 1 & 2 Program and soft skills Training by Siemens Growth Center.",
+        "Extraction of Gesture Features: Contributed to the development of Singularity pipeline by utilizing Red Hen lab’s Distributed systems and HPC that detects & identifies hand gestures, categorizes gestures to various types, and extracts speech features within video content.",
+        "Gesture Pipeline: Utilized OpenPose and LCRN (LSTM + CNN) methodology to develop Gesture prediction pipeline having 78% accuracy.",
+        "Phrase Pipeline: Conducted Speaker Diarization, subtitle segmentation and extracted speech features to detect the speaker in the video.",
+        "Synchronization: Developed a data framework by late fusing both pipelines to analyze hand movements’ correlation with speech features."
       ]
     }
   ]
