@@ -136,17 +136,6 @@
   ],
   "projects": [
     {
-      "name": "Weather App",
-      "techstack": "HTML, CSS, JavaScript, Handlebars, Onrender.com",
-      "category": "Others",
-      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/ukuq1ul8pz0bl3th28ys.png",
-      "links": {
-        "code": "https://github.com/sangam-verma9/weather-app/",
-        "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
-        "visit": "https://weather-app-2zgm.onrender.com/"
-      }
-    },
-    {
       "name": "Covid19 Dashboard",
       "techstack": "Reactjs, HTML, CSS, JavaScript, API-Call, GitHub",
       "category": "Others",
@@ -158,27 +147,17 @@
       }
     },
     {
-      "name": "Bthames App",
-      "techstack": "Reactjs, Javascript, Bootstrap, HTML, CSS, React-icons, UI implmentation, Github",
-      "category": "Frontend",
-      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/lccdjffibi6mpfmvcrmz.png",
+      "name": "Weather App",
+      "techstack": "HTML, CSS, JavaScript, Handlebars, Onrender.com",
+      "category": "Others",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/ukuq1ul8pz0bl3th28ys.png",
       "links": {
-        "code": "https://github.com/sangam-verma9/bthamesv2",
-        "video": "https://drive.google.com/",
-        "visit": "https://sangam-verma9.github.io/bthamesv2/"
+        "code": "https://github.com/sangam-verma9/weather-app/",
+        "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
+        "visit": "https://weather-app-2zgm.onrender.com/"
       }
     },
-    {
-      "name": "Advertisment App",
-      "techstack": "Reactjs, HTML, CSS, JavaScript, Bootstrap, GitHub",
-      "category": "Frontend",
-      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773901/portfolio/projects/moxa0tcte0awfcz1decy.png",
-      "links": {
-        "code": "https://github.com/sangam-verma9/advertismentapp",
-        "video": "https://drive.google.com/",
-        "visit": "https://sangam-verma9.github.io/advertismentapp/"
-      }
-    },
+    
     {
       "name": "Oxyshimehealthcare",
       "techstack": "HTML, CSS, JavaScript, Bootstrap, GitHub",
@@ -188,6 +167,28 @@
         "code": "https://github.com/sangam-verma9/oxyshimehealthcare.github.io",
         "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
         "visit": "https://sangam-verma9.github.io/oxyshimehealthcare.github.io/"
+      }
+    },
+    {
+      "name": "Advertisment App",
+      "techstack": "Reactjs, HTML, CSS, JavaScript, Bootstrap, GitHub",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/ypymbzar1kyclefm3qnr.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/advertismentapp",
+        "video": "https://drive.google.com/",
+        "visit": "https://sangam-verma9.github.io/advertismentapp/"
+      }
+    },
+    {
+      "name": "Bthames App",
+      "techstack": "Reactjs, Javascript, Bootstrap, HTML, CSS, React-icons, UI implmentation, Github",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/lccdjffibi6mpfmvcrmz.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/bthamesv2",
+        "video": "https://drive.google.com/",
+        "visit": "https://sangam-verma9.github.io/bthamesv2/"
       }
     },
     {
