@@ -1,4 +1,4 @@
-![Portfolio](https://i.ibb.co/6vmmt2h/Screenshot-2023-04-22-102946.png)
+![Portfolio](https://res.cloudinary.com/dirhwaotp/image/upload/v1729777953/portfolio/ps0nhocfxgstxnjtferj.png)
 
 <div align="center">
   &middot;
