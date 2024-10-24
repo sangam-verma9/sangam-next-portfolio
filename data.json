@@ -1,292 +1,260 @@
 {
   "main": {
-    "name": "Dhruv Tyagi",
-    "shortDesc": "I focus on developing user-friendly ML applications using Python, Streamlit, Web Development, ML Algorithms, etc. with attention to detail, scalability, and performance.",
+    "name": "Sangam Verma",
+    "shortDesc": "I specialize in building full-stack web applications using the MERN stack, ensuring seamless user experiences with a focus on responsiveness, scalability, and performance. I am committed to delivering efficient solutions tailored to client needs.",
     "titles": [
-      "Machine Learning Development",
-      "Python Development",
-      "Solving Problems"
+      "Full Stack Development",
+      "Backend Development",
+      "Problem Solving"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770218/portfolio/twknxnd2dbzylkyzuagz.png",
     "techStackImages": [
-      "https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-machine-learning-big-data-flaticons-flat-flat-icons.png",
-      "https://img.icons8.com/3d-fluency/94/null/python.png",
-      "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-database-big-data-flaticons-lineal-color-flat-icons-2.png",
-      "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-data-analysis-accounting-flaticons-lineal-color-flat-icons.png"
+      "https://res.cloudinary.com/dirhwaotp/image/upload/v1729777430/portfolio/mluueixptx6ushw3rxn3.png",
+      "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770783/portfolio/oceo4jsa2eykdyi9zroi.png",
+      "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770783/portfolio/i9qjtcip91xca2a9ydp4.png",
+      "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770783/portfolio/lygkinelrvfs6nndorid.png"
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/cJprRtS/PROFILE.png",
+    "aboutImage": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770218/portfolio/twknxnd2dbzylkyzuagz.png",
     "aboutImageCaption": "< I build stuff 🚀/>",
-    "title": "Machine Learning and Python Developer",
-    "about": "I am a Python and Machine Learning Developer who loves to apply Python and Machine learning Algorithms to solve real world problems. I am currently deep diving into Data Science, Open Source and have a keen interest in Blockchain and WEB 3.0 technologies🚀. and constantly pushing myself to grow as a developer and improve my Problem Solving skills.",
+    "title": "MERN STACK Developer | Problem Solver",
+    "about": "I am a MERN Stack Developer who enjoys solving real-world problems by creating full-stack web applications. I am continuously exploring advanced web technologies, open source contributions, and constantly pushing myself to enhance my development skills and problem-solving abilities.",
     "callUrl": "",
-    "resumeUrl": "https://drive.google.com/file/d/1Y6N8tbL5_EUQfPXWQC7asU5QTYDlkeE4/view?usp=sharing"
+    "resumeUrl": "https://drive.google.com/file/d/1kyc5ZZwFNfnDT6bH2FomZyi0wWx6HN2N/view"
   },
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/dhruvtyagi15/"
+      "link": "https://www.linkedin.com/in/sangamverma/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/Dhruv-0001"
+      "link": "https://github.com/sangam-verma9"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/iamdhruv.tyagi/?igshid=ZDdkNTZiNTM%3D"
+      "link": "https://www.instagram.com/sangam_95"
     }
   ],
   "skills": [
     {
-      "name": "Python",
-      "image": "https://img.icons8.com/3d-fluency/144/null/python.png",
-      "category": "Data"
+      "name": "Javascript",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729771912/portfolio/pwd2sntksqraoq58iq7z.webp",
+      "category": "Frontend"
     },
     {
-      "name": "JavaScript",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Web Development"
+      "name": "React",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729771976/portfolio/dgv5we4xe89af7emmeo3.webp",
+      "category": "Frontend"
     },
     {
-      "name": "HTML",
-      "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
-      "category": "Web Development"
+      "name": "Html",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772009/portfolio/fszymsr2gbrmdb4doqws.webp",
+      "category": "Frontend"
     },
     {
-      "name": "CSS",
-      "image": "https://img.icons8.com/fluency/144/null/css3.png",
-      "category": "Web Development"
+      "name": "Css",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772016/portfolio/npzuvq9yqh6rh1zhrdef.webp",
+      "category": "Frontend"
     },
     {
-      "name": "Django",
-      "image": "https://img.icons8.com/color/144/null/django.png",
-      "category": "Web Development"
+      "name": "Tailwindcss",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772001/portfolio/p8en17fld7j1hnalctdn.webp",
+      "category": "Frontend"
     },
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/144/null/github.png",
-      "category": "Others"
+      "name": "Nextjs",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729770783/portfolio/lygkinelrvfs6nndorid.png",
+      "category": "Frontend"
     },
     {
-      "name": "Rest API",
-      "image": "https://img.icons8.com/arcade/144/null/api-settings.png",
-      "category": "Web Development"
+      "name": "Redux",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729771985/portfolio/e5ctq5ygz0jl5n3z5dhx.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Typescript",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729771994/portfolio/qrhw8ay0ntdug4cifes8.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Material UI",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772038/portfolio/zxg0lx7cbgqloawchnfo.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772022/portfolio/xw3dme8zz6xlsztygdeg.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Nodejs",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772057/portfolio/ektpi3g3xze63lea2m59.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "Expressjs",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772065/portfolio/gh2sa3kzsydutwqqtdp1.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772071/portfolio/drxmc6ymdns78kisxcpo.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772081/portfolio/zspamvone1lth26476pf.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772098/portfolio/shbbp36xzallsylry6wp.webp",
+      "category": "Backend"
     },
     {
       "name": "Git",
-      "image": "https://img.icons8.com/color/144/null/git.png",
-      "category": "Others"
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772131/portfolio/ieruzsdu7tmrr5jwtaes.webp",
+      "category": "Othres"
     },
     {
-      "name": "Jupyter",
-      "image": "https://img.icons8.com/fluency/144/null/jupyter.png",
-      "category": "Others"
+      "name": "Github",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729772123/portfolio/naowsbxcx66emat67rv1.webp",
+      "category": "Othres"
     },
     {
-      "name": "VS Code",
-      "image": "https://img.icons8.com/color/144/null/visual-studio-code-2019.png",
-      "category": "Others"
+      "name": "C++",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729777430/portfolio/mluueixptx6ushw3rxn3.png",
+      "category": "Othres"
     },
     {
-      "name": "Excel",
-      "image": "https://img.icons8.com/color/144/null/microsoft-excel-2019--v1.png",
-      "category": "Others"
-    },
-    {
-      "name": "Linux",
-      "image": "https://img.icons8.com/color/144/null/linux--v1.png",
-      "category": "Others"
-    },
-    {
-      "name": "SQL",
-      "image": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/144/null/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png",
-      "category": "Data"
-    },
-    {
-      "name": "Scikit-Learn",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052",
-      "category": "Data"
-    },
-    {
-      "name": "NLP",
-      "image": "https://img.icons8.com/cotton/144/null/brain-3.png",
-      "category": "Data"
-    },
-    {
-      "name": "Mediapipe",
-      "image": "https://viz.mediapipe.dev/logo.png",
-      "category": "Data"
-    },
-    {
-      "name": "OpenPose",
-      "image": "https://raw.githubusercontent.com/CMU-Perceptual-Computing-Lab/openpose/master/.github/Logo_main_black.png",
-      "category": "Data"
-    },
-    {
-      "name": "Keras",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png",
-      "category": "Data"
-    },
-    {
-      "name": "Data Analysis",
-      "image": "https://img.icons8.com/external-becris-lineal-color-becris/144/null/external-data-analysis-business-consultant-becris-lineal-color-becris.png",
-      "category": "Data"
-    },
-    {
-      "name": "Yolo",
-      "image": "https://img.icons8.com/nolan/144/yolo.png",
-      "category": "Data"
-    },
-    {
-      "name": "Pandas",
-      "image": "https://img.icons8.com/color/144/null/pandas.png",
-      "category": "Data"
-    },
-    {
-      "name": "Numpy",
-      "image": "https://img.icons8.com/color/144/null/numpy.png",
-      "category": "Data"
-    },
-    {
-      "name": "Data Modelling",
-      "image": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/144/null/external-data-modelling-media-agency-flaticons-lineal-color-flat-icons-2.png",
-      "category": "Data"
-    },
-    {
-      "name": "Model Deployment",
-      "image": "https://img.icons8.com/external-xnimrodx-blue-xnimrodx/144/null/external-cloud-big-data-xnimrodx-blue-xnimrodx-5.png",
-      "category": "Data"
-    },
-    {
-      "name": "Streamlit",
-      "image": "https://flowygo.com/wp-content/uploads/2022/03/streamlit-logo.png",
-      "category": "Data"
+      "name": "C",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773496/portfolio/mvzdka09l0jktihkkfp1.png",
+      "category": "Othres"
     }
   ],
   "projects": [
     {
-      "name": "Shoe Hype",
-      "techstack": "CNN, ResNet50, Scikit Learn, ML",
-      "category": "Machine Learning",
-      "image": "https://cdn.dribbble.com/users/1997192/screenshots/15359806/dribbble_final_post.png?compress=1&resize=400x300",
+      "name": "Weather App",
+      "techstack": "HTML, CSS, JavaScript, Handlebars, Onrender.com",
+      "category": "Others",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/ukuq1ul8pz0bl3th28ys.png",
       "links": {
-        "code": "https://github.com/Dhruv-0001/SHOE-HYPE",
-        "video": "https://drive.google.com/file/d/14Jz5-4tQWAedAX66S45lYWLdls9cruCK/view",
-        "visit": "https://dhruv-0001-shoe-hype-shoe-hype-8ebvwa.streamlit.app/"
-      }
-    },
-    {
-      "name": "Snap Shot",
-      "techstack": "Machine Learning, API, Streamlit",
-      "category": "Machine Learning",
-      "image": "https://cdn.dribbble.com/users/138806/screenshots/14087810/media/b3f83ad0932f69d8c12f13dd264d95fb.jpg?compress=1&resize=400x300&vertical=top",
-      "links": {
-        "code": "https://github.com/Dhruv-0001/SnapShot.git",
-        "video": "https://drive.google.com/file/d/1Z5HT-DPyQYieUDOCz1ApfEcuiY9RfxAO/view",
-        "visit": "https://dhruv-0001-snapshot-app-keifr6.streamlit.app/"
-      }
-    },
-    {
-      "name": "Pose Detector",
-      "techstack": "Open CV, Mediapipe, Scikit Learn",
-      "category": "Machine Learning",
-      "image": "https://developers.google.com/static/mediapipe/images/solutions/examples/pose_detector.png",
-      "links": {
-        "code": "https://github.com/Dhruv-0001/Pose-Detection",
-        "video": "https://drive.google.com/file/d/1Hf5I0S1jo0eVsMrRRjUw6tLmrtDvj6TE/view",
-        "visit": "https://github.com/Dhruv-0001/Pose-Detection"
-      }
-    },
-    {
-      "name": "Tech Talk",
-      "techstack": "HTML, CSS3, Streamlit, GitHub",
-      "category": "Machine Learning",
-      "image": "https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/11/02150548/How-To-Create-An-Engaging-Memorable-Experience-for-E-Learning-Website-Development.jpg",
-      "links": {
-        "code": "https://github.com/Dhruv-0001/Hacktoberfest2022-Tech-Talk",
-        "video": "https://drive.google.com/file/d/1Hf5I0S1jo0eVsMrRRjUw6tLmrtDvj6TE/view",
-        "visit": "https://dhruv-0001-hacktoberfest2022-tech-talk-main-z5l9tc.streamlit.app/"
-      }
-    },
-    {
-      "name": "Stocks Forecastor",
-      "techstack": "FB Prophet, API, Data Forecasting",
-      "category": "Machine Learning",
-      "image": "https://miro.medium.com/v2/resize:fit:626/0*SaNg8uUaKCMQSS5g.jpg",
-      "links": {
-        "code": "https://github.com/Dhruv-0001/Stocks-Forecastor",
+        "code": "https://github.com/sangam-verma9/weather-app/",
         "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
-        "visit": "https://dhruv-0001-stocks-forecastor-app-gqlm6j.streamlit.app/"
+        "visit": "https://weather-app-2zgm.onrender.com/"
+      }
+    },
+    {
+      "name": "Covid19 Dashboard",
+      "techstack": "Reactjs, HTML, CSS, JavaScript, API-Call, GitHub",
+      "category": "Others",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773943/portfolio/projects/ghmbaijjhtny2elnbupx.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/covid19app",
+        "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
+        "visit": "https://sangam-verma9.github.io/covid19app/"
+      }
+    },
+    {
+      "name": "Bthames App",
+      "techstack": "Reactjs, Javascript, Bootstrap, HTML, CSS, React-icons, UI implmentation, Github",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/lccdjffibi6mpfmvcrmz.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/bthamesv2",
+        "video": "https://drive.google.com/",
+        "visit": "https://sangam-verma9.github.io/bthamesv2/"
+      }
+    },
+    {
+      "name": "Advertisment App",
+      "techstack": "Reactjs, HTML, CSS, JavaScript, Bootstrap, GitHub",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773901/portfolio/projects/moxa0tcte0awfcz1decy.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/advertismentapp",
+        "video": "https://drive.google.com/",
+        "visit": "https://sangam-verma9.github.io/advertismentapp/"
+      }
+    },
+    {
+      "name": "Oxyshimehealthcare",
+      "techstack": "HTML, CSS, JavaScript, Bootstrap, GitHub",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773901/portfolio/projects/moxa0tcte0awfcz1decy.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/oxyshimehealthcare.github.io",
+        "video": "https://drive.google.com/file/d/10SSXvy3qkxU5tGc-veHwqJaYa0SOogfg/view",
+        "visit": "https://sangam-verma9.github.io/oxyshimehealthcare.github.io/"
+      }
+    },
+    {
+      "name": "Instagram",
+      "techstack": "Nextjs, JavaScript, Firebase, Firestore Bucket, Nodejs, Tailwindcss, Vercel",
+      "category": "Full Stack",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/s1usdfeztzfq2pqqa3hl.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/instagram",
+        "video": "https://drive.google.com/",
+        "visit": "https://instagram-lake-xi.vercel.app/"
+      }
+    },
+    {
+      "name": "Kit Kart",
+      "techstack": "Reactjs, JavaScript, Firebase, Nodejs, Tailwindcss, CSS, RazorPay, Netlify",
+      "category": "Full Stack",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773901/portfolio/projects/uraoah1sek1waowgrghl.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/kitkart",
+        "video": "https://drive.google.com/",
+        "visit": "https://kitkart.netlify.app/"
+      }
+    },
+    {
+      "name": "Notecenter",
+      "techstack": "Reactjs, Javascript, MongoDB, Nodejs, Bootstrap, HTML, CSS, Netlify",
+      "category": "Full Stack",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1729773900/portfolio/projects/ng9wqk4jb9u8njfcodks.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/notecenterbacckend",
+        "video": "https://drive.google.com/",
+        "visit": "https://notecenter.netlify.app/"
       }
     }
+    
   ],
   "educations": [
     {
-      "institute": "Rainbow School | CBSE",
-      "degree": "HSC Science",
-      "duration": "2017 - 2019",
-      "desc": ["Class 10th : 9.8 CGPA", "Class 12th : 94.6 Percentage"]
+      "institute": "Radha Krishna Satya Prabha Siksha Shansthan",
+      "degree": "HEMSSD",
+      "duration": "2017 - 2018",
+      "desc": ["Class 10th : 92.5 Percentage"]
+    },
+    {
+      "institute": "Radha Krishna Satya Prabha Siksha Shansthan",
+      "degree": "Science - PCM",
+      "duration": "2019 - 2020",
+      "desc": ["Class 12th : 83.6 Percentage"]
     },
     {
       "institute": "Harcourt Butler Technical University (HBTU)",
-      "degree": "B.Tech EE",
-      "duration": "2020 - 2024",
-      "desc": ["Pursuing Electrical Engineering course from HBTU.", "Responsibilities ‑ Training and Placement Representative, TPR of EE | Co ‑ Secretary at Alumni Association | Social Media Head at Unstop HBTU."]
+      "degree": "B.Tech Computer Science & Engineering",
+      "duration": "2021 - 2025",
+      "desc": ["Pursuing Electrical Engineering course from HBTU."]
     }
   ],
   "experiences": [
     {
-      "company": "Hacktober Fest",
-      "position": "Open Source Maintainer",
-      "duration": "Oct 2022 - Nov 2022",
+      "company": "Codeclause",
+      "position": "Web Developer Intern",
+      "duration": "Sep 2023 - Oct 2023",
       "desc": [
-        " Maintained and developed the Tech Talk (An Open-Source Tech Topics Learning Website) at Hacktoberfest 2022",
-        "Skills: HTML · CSS · Streamlit · Javascript · Github"
-      ]
-    },
-    {
-      "company": "Siemens - Growth Center",
-      "position": "Mechatronics Training & Research",
-      "duration": "2022 - 2023",
-      "desc": [
-        "Cleared Mechatronics Level 1 & 2 Program and soft skills Training by Siemens Growth Center.",
-        "Learnt PLC programming, TIA portal and did error finding hands-on on the Siemens software.",
-        "Researched and implemented upon connecting a PLC with a website for remote access."
-      ]
-    },
-    {
-      "company": "Siemens Ltd.",
-      "position": "Research & Development Intern",
-      "duration": "June 2022 - Aug 2022",
-      "desc": [
-        "Researched and created the work plan for the Automation of Lab work at the R&D department.",
-        "Created API of labs using the Mind Connect IOT 2040 module for controlling the labs remotely.",
-        "Prototyped an application on Mindsphere cloud using Mendix and designed PLC programs of 10+ labs on LOGO and TIA software."
-      ]
-    },
-    {
-      "company": "SixthSens AI",
-      "position": "AI Developer Intern",
-      "duration": "April 2023 - July 2023",
-      "desc": [
-        "Worked on the development of Real life ML & AI solutions.",
-        "Object Detection: Generated an artificial dataset with 10K+ annotated items by applying foreground augmentation and masking techniques.",
-        "Designed an object detection model by utilizing YOLOv8 taht have an accuracy of 82% to automate the Industrial pipeline.",
-        "Web Scraping: Scraped 1.3 million entries using Selenium, Python and employed GCP, Google Cloud Cron jobs for scheduling the scraping.",
-        "Skills: ML · AI · Yolo · Object Detection"
-      ]
-    },
-    {
-      "company": "Google Summer of Code (GSoC) 2023 - Red Hen Lab",
-      "position": "Open Source Developer",
-      "duration": "May 2023 - September 2023",
-      "desc": [
-        "Cleared Mechatronics Level 1 & 2 Program and soft skills Training by Siemens Growth Center.",
-        "Extraction of Gesture Features: Contributed to the development of Singularity pipeline by utilizing Red Hen lab’s Distributed systems and HPC that detects & identifies hand gestures, categorizes gestures to various types, and extracts speech features within video content.",
-        "Gesture Pipeline: Utilized OpenPose and LCRN (LSTM + CNN) methodology to develop Gesture prediction pipeline having 78% accuracy.",
-        "Phrase Pipeline: Conducted Speaker Diarization, subtitle segmentation and extracted speech features to detect the speaker in the video.",
-        "Synchronization: Developed a data framework by late fusing both pipelines to analyze hand movements’ correlation with speech features."
+        " Architected and built highly interactive web applications using React.js, Node.js, and JavaScript.",
+        " Collaborated with graphic designers to implement web design features, ensuring a seamless user experience.",
+        "Wrote reusable and scalable code, following best practices in front-end development.",
+        "Worked closely with product managers and engineering leaders from conceptualization to the finished product."
       ]
     }
   ]
