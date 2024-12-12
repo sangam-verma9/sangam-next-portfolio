@@ -20,7 +20,7 @@ export default async function handler(
         const msg = `Name: ${name}\r\n Email: ${email}\r\n Message: ${message}`;
         const data = {
             to: process.env.MAIL_TO as string,
-            from: email as string,
+            from: process.env.MAIL_FROM as string,
             subject: `${name.toUpperCase()} sent you a message from Portfolio`,
             text: `Email => ${email}`,
             html: msg.replace(/\r\n/g, "<br>"),
