@@ -28,7 +28,11 @@ export default async function handler(
         try {
             await sgMail.send(data);
             res.status(200).json({ message: "Your message was sent successfully." });
-        } catch (err) {
+        } catch (err: any) {
+            console.log(err)
+            if (err.response) {
+                console.error(err.response.body)
+            }
             res.status(500).json({ message: `There was an error sending your message. ${err}` });
         }
     }
