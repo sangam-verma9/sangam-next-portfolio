@@ -157,7 +157,17 @@
         "visit": "https://weather-app-2zgm.onrender.com/"
       }
     },
-    
+    {
+      "name": "JTGeats",
+      "techstack": "Reactjs, Javascript, Bootstrap, HTML, CSS, React-icons, UI implmentation, Github",
+      "category": "Frontend",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1738085201/portfolio/projects/c2rrgqr0qfvsokrmv8yp.png",
+      "links": {
+        "code": "http://github.com/sangam-verma9/jtg_assignment/",
+        "video": "https://drive.google.com/",
+        "visit": "https://sangam-verma9.github.io/jtg_assignment/"
+      }
+    },
     {
       "name": "Oxyshimehealthcare",
       "techstack": "HTML, CSS, JavaScript, Bootstrap, GitHub",
@@ -192,6 +202,17 @@
       }
     },
     {
+      "name": "MovieZone",
+      "techstack": "Reactjs, JavaScript, Mongodb, Nodejs, Tailwindcss, JWT, Netlify",
+      "category": "Full Stack",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1738085202/portfolio/projects/kvsrs1n3ciqoutuv6d9a.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/moviezone",
+        "video": "https://drive.google.com/",
+        "visit": "https://moviezone-sangam.netlify.app/"
+      }
+    },
+    {
       "name": "Instagram",
       "techstack": "Nextjs, JavaScript, Firebase, Firestore Bucket, Nodejs, Tailwindcss, Vercel",
       "category": "Full Stack",
@@ -222,6 +243,17 @@
         "code": "https://github.com/sangam-verma9/notecenterbacckend",
         "video": "https://drive.google.com/",
         "visit": "https://notecenter.netlify.app/"
+      }
+    },
+    {
+      "name": "Ecommerce",
+      "techstack": "Reactjs, Javascript, Mongodb, Nodejs, Tailwind, HTML, CSS, Render",
+      "category": "Full Stack",
+      "image": "https://res.cloudinary.com/dirhwaotp/image/upload/v1738085202/portfolio/projects/iikygua7fdfokukws1gn.png",
+      "links": {
+        "code": "https://github.com/sangam-verma9/Ecommerce",
+        "video": "https://drive.google.com/",
+        "visit": "https://ecommerce-hj9r.onrender.com/"
       }
     }
     
